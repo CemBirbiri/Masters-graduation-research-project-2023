@@ -8,7 +8,7 @@ The dataset in this work is the [Human Connectome dataset](https://wiki.humancon
 
 You can find the Jupyter Notebook and project report. 
 
-Abstract:
+# Abstract:
 
 Many common neurological and neurodegenerative disorders, such as Alzheimer’s disease, Parkinson's disease, or autism have been linked with anomalous patterns of biological aging of
 the brain. Discovering which brain regions are related to specific neurological disorders or cognitive stimuli became an essential field of neuroimaging research. Diffusion Tensor Images (DTI) can be used to reveal the biological underlying patterns behind the aging process, holds an individual's signs for various brain disorders, and
