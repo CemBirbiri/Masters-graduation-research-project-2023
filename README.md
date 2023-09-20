@@ -1,6 +1,6 @@
 # masters-graduation-research-project-2023
 
-This repository includes the graduation research porject of my master's - M.Sc. Data Science & Artificial Intelligence - at Université Côte d'Azur, France. 
+This repository includes the master's thesis/graduation project of my master's - M.Sc. Data Science & Artificial Intelligence - at Université Côte d'Azur, France. It is published in HAL Open Science and you can find it [here.](https://hal.science/hal-04182931)
 
 This master program does not have any thesis, instead we have two long-term internships and a graduation research project. Thus, this research is similar to a thesis where we don't have to publish it.
 
