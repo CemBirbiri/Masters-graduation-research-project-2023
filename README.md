@@ -2,8 +2,6 @@
 
 This repository includes the master's thesis/graduation project of my master's - M.Sc. Data Science & Artificial Intelligence - at Université Côte d'Azur, France. It is published in HAL Open Science and you can find it [here.](https://hal.science/hal-04182931)
 
-This master program does not have any thesis, instead we have two long-term internships and a graduation research project. Thus, this research is similar to a thesis where we don't have to publish it.
-
 The dataset in this work is the [Human Connectome dataset](https://wiki.humanconnectome.org/display/PublicData/HCP-YA+Data+Dictionary-+Updated+for+the+1200+Subject+Release#HCPYADataDictionaryUpdatedforthe1200SubjectRelease) where there are 998 patient's and their brain maps represented as connectivity matrices with shape (116, 116). There are 116 brain regions per matrix and the values represent the number of fiber between regions measured in diffusion tensor images(DTI). 
 
 You can find the Jupyter Notebook and project report. 
